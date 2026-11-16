@@ -1,6 +1,6 @@
 ---
 title: Games with Generative AI
-description: 
+description: what the heli
 ---
 
 Roblox provides a variety of AI-powered tools and services to enhance creation and in-game creativity. When incorporating generative AI into your games, whether using Roblox-provided models or third-party solutions, you must ensure these integrations remain safe, follow Roblox's [Community Standards](https://about.roblox.com/community-standards), and provide transparency to your users.
