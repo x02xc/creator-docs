@@ -1,7 +1,7 @@
 ---
 title: Learn
 description: Videos and articles for building on Roblox.
-template: landing-page
+template: splash
 hideInPageNavigation: true
 ---
 
