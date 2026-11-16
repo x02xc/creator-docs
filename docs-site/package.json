@@ -3,7 +3,7 @@
         "build": "astro build"
     },
     "dependencies": {
-        "@astrojs/startlight": "^0.32.0",
+        "@astrojs/starlight": "^0.32.0",
         "astro": "^5.0.0"
     },
     "type": "module"
