@@ -50,3 +50,9 @@ content/tr-tr/** linguist-generated=true
 content/vi-vn/** linguist-generated=true
 content/zh-cn/** linguist-generated=true
 content/zh-tw/** linguist-generated=true
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.avif binary
