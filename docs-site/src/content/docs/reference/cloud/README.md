@@ -1,3 +1,7 @@
+---
+title: "Open Cloud reference"
+---
+
 # Open Cloud reference
 
 The Open Cloud reference documentation at [https://create.roblox.com/docs/cloud/reference](https://create.roblox.com/docs/cloud/reference) is rendered from the JSON files in this directory, which use various versions of the OpenAPI specification (generally 3.0.4).

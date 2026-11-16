@@ -1,6 +1,6 @@
 ---
 title: DevEx Portal
-description: 
+description: ""
 ---
 
 When you submit a DevEx request and Roblox approves it, you can create an account and select a payment method on the DevEx Portal. The DevEx Portal is run by Tipalti, a third-party payment processor that Roblox partners with to process DevEx payments. Your tax information is managed separately, on the **Taxes** page in Creator Hub.
